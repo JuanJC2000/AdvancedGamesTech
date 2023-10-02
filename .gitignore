@@ -396,3 +396,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.vs/engine/v16/ipch
+
+.vs/engine/v16/*.db
+
+
+.vs/engine/v17/ipch
+
+.vs/engine/v17/*.db
+
+inter/
+
+bin/
+/.gitignore
+/.editorconfig
+
